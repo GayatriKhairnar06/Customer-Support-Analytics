@@ -9,7 +9,7 @@ The dataset includes historical support case records
 
 Project Workflow
 
-# 1.EDA (Exploratory Data Analysis)
+# 1. 📊 EDA (Exploratory Data Analysis)
 - Performed **UBM analysis**:
   - **Univariate**: Frequency of CSAT scores, sub-categories, agent shifts
   - **Bivariate**: CSAT vs shift, CSAT vs response time, CSAT vs tenure
